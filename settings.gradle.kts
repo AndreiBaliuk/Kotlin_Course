@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "HomeWork1"
 include(":app")
- 
+include(":picture2")
