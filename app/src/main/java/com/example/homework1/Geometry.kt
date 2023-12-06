@@ -8,7 +8,7 @@ package com.example.homework1
     object None : Geometry()
 }
 fun Geometry.Square.toSquare1(): String{
-    val square = "S = π(r * r)"
+    val square = " S = π(r * r)"
     return square
 }
 
